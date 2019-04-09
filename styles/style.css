@@ -1,0 +1,26 @@
+h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: rgb(6, 77, 6);
+    text-shadow: 3px 3px 1px black;
+  }
+
+
+  
+p{
+    text-align: justify}
+
+a{color: green}
+
+h4{
+    color:rgb(6, 77, 6);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+section.row {
+    margin-top: 50px;
+}
